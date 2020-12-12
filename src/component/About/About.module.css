@@ -1,0 +1,11 @@
+.head{
+    font: 500;
+    color: red;
+}
+.aboutSection {
+    padding: 50px;
+    text-align: center;
+    /* background-color: #474e5d; */
+    background-color: #000000;
+    color: white;
+}
