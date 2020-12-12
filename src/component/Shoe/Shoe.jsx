@@ -22,7 +22,7 @@ function Shoe() {
                     <img src={img} alt="Shoes" style={{width:"100%",height:"555px"}}/>
                         <div class={style.textBlock}>
                             <h4>{name}</h4>
-                            <p>What a  beautifull Shoe</p>
+                            <p>Quality shoes avoid discomfort and other problems</p>
                         </div>
                 </div>
             {/* </Paper> */}
